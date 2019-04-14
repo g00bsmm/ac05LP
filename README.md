@@ -1,7 +1,7 @@
 # ac05LP
 Códigos da AC05 de Linguagem de programação
 __alunos__ = ['gabriel.miranda@aluno.faculdadeimpacta.com.br',
-              'email_aluno2@aluno.faculdadeimpacta.com.br']
+              'bruno.viana@aluno.faculdadeimpacta.com.br']
 
 
 class Disciplina:
